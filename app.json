@@ -1,0 +1,13 @@
+{
+  "name": "Heroku PHP Simple",
+  "description": "Template for deploying php and ngninx to Heroku",
+  "repository": "",
+  "success_url": "/",
+  "env": {
+    "BUILDPACK_URL": "https://github.com/heroku/heroku-buildpack-php",
+    "SITE_TITLE": {
+      "description": "Title of site",
+      "value": "Hola Mundo!"
+    }
+  }
+}
