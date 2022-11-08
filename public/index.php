@@ -7,6 +7,6 @@
   </head>
   <body>
     <p>Hola</p>
-    <p>version de php <?php echo phpversion(); ?></p>
+    <p>version de php... <?php echo phpversion(); ?></p>
   </body>
 </html>
